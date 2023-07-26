@@ -1,4 +1,4 @@
-aiogram~=2.20
-requests==2.27.1
-environs~=9.5.0
-aioschedule~=0.5.2
+aiogram
+requests
+environs
+aioschedule
